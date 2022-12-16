@@ -8,8 +8,8 @@ Minor and major changes will be updated here, and the information will be posted
 - [Syllabus](syllabus.md)
 - [Lecture Plan](lecture-plan.md)
 - [Lab Plan](lab-plan.md)
-<!-- - [Lab Assistance Schedule](lab-plan.md)--->
-- [Sign Up -- Do It Now](signup.md)
+<!-- - [Lab Assistance Schedule](lab-plan.md)
+- [Sign Up -- Do It Now](signup.md)--->
 - [Get Unix Account -- If you need](setup-unix.md)
 - [Description of Lab Submission Process](lab-submission.md)
 <!--- - [Troubleshooting Guide for Assignments](troubleshooting.md)--->
